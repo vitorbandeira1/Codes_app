@@ -1,0 +1,95 @@
+
+/*<!-- ---------------- TOP 10 ---------------------- -->*/
+.top_10{
+padding: .5rem;
+  color: white;
+  background-color: #405a63;
+  box-shadow: 0 0 5px;
+  display: flex;
+}
+
+.top_10-items-list{
+ display: inline-flex;
+}
+
+.perfil-img{
+	border-radius: 50%;
+}
+
+.top_10-text{
+	margin-top: 1rem;
+	margin-left: 2rem;
+}
+
+.top_10-title{
+	font-size: 2rem;
+}
+
+.top_10-nome{
+	margin-top: 6rem;
+	font-size: 1.5rem;
+}
+
+.top_10-nome, .top_10-profissao{
+	margin-left: 3rem;
+}
+
+
+
+/*<!-- ---------------- Filtro ---------------------- -->*/
+
+.filtro{
+  padding: .5rem;
+  color: white;
+  background-color: #405a63;
+  box-shadow: 0 0 5px;
+  display: flex;
+}
+
+
+.txt-items{
+ 	margin-right: 3.6rem;
+ 	margin-top: .4rem;
+ 	font-size: 1.1rem;
+ 	margin-bottom: .4rem;
+}
+
+.filtro-item-list{
+	margin-right: -.8rem;
+}
+
+.txt-items:hover{
+	font-size: 1.3rem;
+}
+
+.linha_1{
+	display: flex;
+}
+
+.pintor-text{
+	margin-left: 2.9rem;
+}
+.dança-text{
+	margin-left: 2.9rem;
+}
+
+.linha_2{
+	display: flex;
+}
+
+
+/*<!-- ---------------- Trabalho ---------------------- -->*/
+
+.trabalho{
+  padding: .5rem;
+  color: white;
+  background-color: white;
+  box-shadow: 0 0 5px;
+  display: flex;
+  color:black;
+}
+
+.trabalho-image{
+	height: 10.1rem;
+	padding: 0.5rem;
+}

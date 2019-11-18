@@ -16,4 +16,8 @@ document.addEventListener('DOMContentLoaded', function() {
       iframe.webkitRequestFullscreen()
     }
   })
+<<<<<<< HEAD
 })
+=======
+})
+>>>>>>> 860581d4057963e6cb29c645352ec28b7b102128
