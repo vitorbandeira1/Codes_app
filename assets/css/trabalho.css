@@ -1,0 +1,55 @@
+.obratitulo-conteiner {
+  font-size: 30px;
+  text-align: center;
+
+}
+
+.titulo {
+  padding-bottom:15px; 
+  padding-top:15px;
+}
+
+.infousuario-conteiner {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+}
+
+.profilepic {
+
+}
+
+.foto-perfil {
+  width: 10%;
+  border-radius: 50%;
+
+}
+
+.nome {
+  font-size: 20px;
+
+}
+
+.trabalho-arte {
+  max-width: 375px;
+  padding-bottom: 30px;
+}
+
+.descricao-conteiner {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-bottom: 180px;
+}
+
+.expl-obra {
+  font-size: 20px;
+  padding-left: 15px;
+  padding-right: -100px; 
+  /*padding-bottom: 200px;*/
+}
+
+.msg-perfil {
+  padding-right: 10px;
+}

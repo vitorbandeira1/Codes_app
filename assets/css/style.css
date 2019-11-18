@@ -1,0 +1,79 @@
+html {
+    background-color: #ffffff;
+}
+
+body {
+    font-family: sans-serif;
+    /*padding: 1rem;*/
+}
+
+iframe {
+    background-color: #ffffff;
+}
+
+.body{
+
+}
+
+.header-conteiner {
+
+
+}
+
+.titulo-prov{
+	text-align: center;	
+}
+
+.profile-img {
+	border-radius: 50%;
+	background-color: white;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+  	padding-bottom: 20px;
+  	padding-top: 20px;
+}
+
+.profileinfo-conteiner {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.profileinfo-conteiner2 {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.artista-nome {
+	font-size: 30px;
+}
+
+.artista-tipo {
+	font-size: 30px;
+}
+
+.seta-detalhe {
+	height: 8%;
+ 	width: 8%;
+}
+
+.msg-balao {
+	padding-left: 200px;
+	height: 15%;
+ 	width: 15%;
+}
+
+.imgscroll-conteiner {
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-left: 25px;
+}
+
+.trabalhos {
+	padding-bottom: 40px;
+	height: 160px; 
+	width: 160px;
+}
+
+
