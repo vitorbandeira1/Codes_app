@@ -1,0 +1,66 @@
+
+.contato{
+	display: inline-flex;
+	border:solid;
+	border-width:0.1rem ;
+	width: 23.32rem;
+	height: 5rem;
+
+
+}
+
+.img_foto {
+	display: flex;
+	align-items: center;
+  
+}
+
+.foto {
+  border-radius: 50%;
+  width:90%;
+  
+
+}
+
+.nome {
+	display: flex;
+	margin-right: 15rem;
+
+
+  
+}
+
+.mensagem_nome {
+	margin-top: 2rem;
+  
+}
+
+.escrever {
+
+	margin-top: 24rem;
+}
+
+.digitar {
+	border:solid;
+	border-width:0.1rem ;
+
+  
+}
+
+.mensagem_digitar{
+	padding: 0.7rem;
+
+}
+
+.img_teclado{
+
+
+  
+}
+
+.teclado{
+	max-width: 100%;
+	width: 40rem;
+	height: 10rem;
+
+}

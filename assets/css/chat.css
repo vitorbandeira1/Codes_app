@@ -1,0 +1,202 @@
+
+.total{
+	max-width: 375px;
+}
+
+.chat{
+	display: inline-flex;
+	border:solid;
+	border-width:0.1rem ;
+	width: 23.32rem;
+	height: 5rem;
+
+}
+.chat_escrito{
+	align-items: center;
+	margin-top: 2rem;
+	margin-left: 7rem;
+  
+}
+.mensagem_chat{
+	
+	display: flex;
+
+}
+.contato1{
+	display: inline-flex;
+	border:solid;
+	border-width:0.1rem ;
+	width: 23.32rem;
+	height: 5rem;
+
+
+}
+
+.img_foto1{
+	display: flex;
+	align-items: center;
+  
+}
+
+.foto1 {
+  border-radius: 50%;
+  width: 3rem;
+  
+
+}
+
+.nome1 {
+	display: flex;
+	margin-right: 2rem;
+
+
+  
+}
+
+.mensagem_nome1 {
+	margin-top: 2rem;
+  
+}
+.contato2{
+	display: inline-flex;
+	border:solid;
+	border-width:0.1rem ;
+	width: 23.32rem;
+	height: 5rem;
+
+
+}
+
+.img_foto2 {
+	display: flex;
+	align-items: center;
+  
+}
+
+.foto2 {
+  border-radius: 50%;
+  width:3rem;
+  
+
+}
+
+.nome2 {
+	display: flex;
+	margin-right: 15rem;
+
+
+  
+}
+
+.mensagem_nome2 {
+	margin-top: 2rem;
+  
+}
+.contato3{
+	display: inline-flex;
+	border:solid;
+	border-width:0.1rem ;
+	width: 23.32rem;
+	height: 5rem;
+
+
+}
+
+.img_foto3 {
+	display: flex;
+	align-items: center;
+  
+}
+
+.foto3 {
+  border-radius: 50%;
+  width:3rem;
+  
+
+}
+
+.nome3 {
+	display: flex;
+	margin-right: 15rem;
+
+
+  
+}
+
+.mensagem_nome3 {
+	margin-top: 2rem;
+  
+}
+.contato4 {
+	display: inline-flex;
+	border:solid;
+	border-width:0.1rem ;
+	width: 23.32rem;
+	height: 5rem;
+
+
+}
+
+.img_foto4 {
+	display: flex;
+	align-items: center;
+  
+}
+
+.foto4 {
+  border-radius: 50%;
+  width:3rem;
+  
+
+}
+
+.nome4 {
+	display: flex;
+	margin-right: 15rem;
+
+
+  
+}
+
+.mensagem_nome4 {
+	margin-top: 2rem;
+  
+}
+.contato5{
+	display: inline-flex;
+	border:solid;
+	border-width:0.1rem ;
+	width: 23.32rem;
+	height: 5rem;
+
+
+}
+
+.img_foto5 {
+	display: flex;
+	align-items: center;
+  
+}
+
+.foto5{
+  border-radius: 50%;
+  border:solid;
+  border-width:0.1rem ;
+  width:2.7rem;
+
+  
+
+}
+
+.nome5 {
+	display: flex;
+	margin-right: 9rem;
+
+
+  
+}
+
+.mensagem_nome5 {
+	margin-top: 2rem;
+  
+}
