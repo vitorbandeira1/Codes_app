@@ -15,11 +15,17 @@
 
 
 
+}
+
+.inputmicro, .inputcam, .inputplay{
+
+	padding-left: 1rem;
 }	
 
 .audio1, .video1, .imagem1{
 
 	justify-content: center;
+
 
 
 	
@@ -32,10 +38,13 @@
 
 	margin-left: 5rem;
 	margin-right: 5rem; 
+	margin-top: 1rem;
 
-	margin-bottom: 3rem;
+	margin-bottom: 4rem;
 	border: solid;
 	border-radius: 30%;
+	padding-bottom: 0.5rem;
+	padding-top: 0.5rem;
 }
 
 

@@ -55,16 +55,25 @@
 	padding-bottom: .3rem;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
-	margin-left:4rem ;
+	margin-left:8rem ;
 	margin-right: 4rem;
-    border-style: solid;
-	border-width: .1rem;
+ /*   border-style: solid;
+	border-width: .1rem;*/
 	display: flex;
-	justify-content: center;
+	justify-content: flex-start;
 	align-items: center;
 
 
 
+
+}
+
+.input{ 
+
+    width: 18rem;
+    height: 2rem;
+    
+   
 
 }
 
