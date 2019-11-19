@@ -35,8 +35,7 @@
 
 .txt_conta{
 	padding: .5rem;
-
-	
+	color: black;
 
 
 
@@ -153,10 +152,10 @@
 	display: inline-flex;
 
 	border-style: solid;
-	border-width: .1rem;
+	border-width: .2rem;
 	margin-left: 2rem;
 	margin-right: 2rem;
-
+	border-color: #ff0d4f
 }
 
 
