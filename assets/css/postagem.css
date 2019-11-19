@@ -1,0 +1,145 @@
+.titulo{
+
+	font-size: 2rem;
+	margin-top: 2rem;
+	margin-left: 1rem;
+	margin-bottom: 3rem;
+}
+
+
+.itens{
+
+	display: flex;
+	flex-direction: column;
+
+
+
+
+}	
+
+.audio1, .video1, .imagem1{
+
+	justify-content: center;
+
+
+	
+
+
+
+}
+
+.audio, .video, .imagem {
+
+	margin-left: 5rem;
+	margin-right: 5rem; 
+
+	margin-bottom: 3rem;
+	border: solid;
+	border-radius: 30%;
+}
+
+
+.play, .camera{
+
+	width: 15%;
+	margin-left: 5.5rem;
+	
+	
+	
+}
+
+.micro{ 
+	width: 8%;
+	margin-left: 5.8rem;
+
+
+
+
+ }
+
+.texto{
+
+	font-size: 1.5rem;
+	margin-top: 2rem;
+	margin-left: 1rem;
+
+
+}
+
+.comp{
+
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 5rem;
+	margin-bottom: 0.5rem;
+	margin-right: 1rem;
+
+
+
+
+}
+
+.opcoes{
+
+	display: inline-flex;
+	
+
+
+}
+
+.text{
+
+	margin-top: 2rem;
+	margin-left: 1rem;
+
+
+
+
+
+}
+
+.compartilhar{
+
+
+	border-style: solid;
+	border-width: .1rem;
+	padding: .5rem;
+	
+}
+
+.txt{
+
+	margin-bottom: 5rem;
+}
+
+
+
+.opcomp, .opcomp1{
+
+	margin: 2rem;
+	margin-left: 3.5rem;
+	border-style: solid;
+	border-width: .1rem;
+	padding: .5rem;
+}
+	
+
+}
+
+
+.opcomp1{
+
+	margin-left: 5rem;
+
+
+
+}
+
+.addtb{
+
+	display: flex;
+	align-items: center;
+}
+
+
+}	
