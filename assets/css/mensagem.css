@@ -5,6 +5,8 @@
 	border-width:0.1rem ;
 	width: 23.32rem;
 	height: 5rem;
+	margin-top:-1rem;
+
 
 
 }
@@ -25,6 +27,8 @@
 .nome {
 	display: flex;
 	margin-right: 15rem;
+	font-family: Antic;
+
 
 
   
@@ -43,13 +47,13 @@
 .digitar {
 	border:solid;
 	border-width:0.1rem ;
-	margin-top: 35rem;
+	margin-top: -1rem;
 
   
 }
 
 .mensagem_digitar{
-	padding: 0.7rem;
+	padding: 2rem;
 
 }
 
