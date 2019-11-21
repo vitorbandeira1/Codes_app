@@ -24,15 +24,21 @@
 
 .audio1, .video1, .imagem1{
 
-	justify-content: center;
-
-
-
-	
+	justify-content: center;	
 
 
 
 }
+
+
+.image-upload>input {
+  display: none;
+}
+
+
+
+
+
 
 .audio, .video, .imagem {
 
