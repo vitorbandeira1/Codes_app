@@ -1,4 +1,5 @@
 .body{
+	background-color: #EDEAEA;
 
 
 }
@@ -26,7 +27,8 @@
 .conta_bancaria{
 	margin-left: -4rem;
 	border-style: solid;
-	border-width: .1rem;
+	border-width: .2rem;
+	border-color: #7A060D;
 
 
   
@@ -127,6 +129,7 @@
 	display: grid;
 	align-content: center;
 	grid-template-columns: 1fr;
+	margin-bottom: 5rem;
 	
 
 
@@ -155,7 +158,7 @@
 	border-width: .2rem;
 	margin-left: 2rem;
 	margin-right: 2rem;
-	border-color: #ff0d4f
+	border-color: #7A060D;
 }
 
 
