@@ -4,7 +4,7 @@ html {
 
 body {
     font-family: sans-serif;
-    /*padding: 1rem;*/
+    background-color: #EDEAEA;
 }
 
 iframe {
@@ -26,7 +26,7 @@ iframe {
 
 .profile-img {
 	border-radius: 50%;
-	background-color: white;
+	background-color: #EDEAEA;
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
@@ -60,6 +60,7 @@ iframe {
 
 .msg-balao {
 	padding-left: 200px;
+	background-color: #EDEAEA;
 	height: 15%;
  	width: 15%;
 }
