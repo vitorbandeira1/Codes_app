@@ -3,7 +3,7 @@
 .top_10{
 padding: .5rem;
   color: white;
-  background-color: #405a63;
+  background-color: #EDEAEA;
   box-shadow: 0 0 5px;
   display: flex;
 }
@@ -17,6 +17,7 @@ padding: .5rem;
 }
 
 .top_10-text{
+	color: #490000;
 	margin-top: 1rem;
 	margin-left: 2rem;
 }
@@ -41,7 +42,7 @@ padding: .5rem;
 .filtro{
   padding: .5rem;
   color: white;
-  background-color: #405a63;
+  background-color: #9F96AA;
   box-shadow: 0 0 5px;
   display: flex;
 }
@@ -83,7 +84,7 @@ padding: .5rem;
 .trabalho{
   padding: .5rem;
   color: white;
-  background-color: white;
+  background-color: #EDEAEA;
   box-shadow: 0 0 5px;
   display: flex;
   color:black;
