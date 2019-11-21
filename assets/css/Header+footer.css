@@ -30,7 +30,7 @@
 .header-title {
   display: inline-flex;
   align-items: center;
-  margin-left: 4.2rem;
+  margin-left: 2.3rem;
   font-size: 2rem;
 }
 
@@ -53,22 +53,14 @@
 
 /*<!-- ------------ Footer --------------------- -->*/
 .footer {
-  color: white;
-  background-color: #405a63;
   justify-content: space-evenly;
   display: flex;
-  flex-grow: 1;
+  /*flex-grow: 1;*/
   position: fixed;
   overflow: hidden;
   bottom: 0;
-  width: 100%;
-}
-
-.footer {
-  color: white;
-  background-color: #7A060D ;
-  box-shadow: 0 0 3px;
-  display: flex;
+  background-color: #7A060D;
+  width: 100%
 }
 
 .footer-items {
@@ -93,6 +85,7 @@
 
 .footer-img:hover {
   background-color: #7A060D;
+  width: 100%;
 }
 
 .doacao-image, .home-image, .adcionar-image, .chat-image, .perfil-image {
