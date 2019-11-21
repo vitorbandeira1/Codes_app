@@ -11,6 +11,7 @@
   background-color: #7A060D;
   display: flex;
   width: 100%;
+  margin-bottom: 1rem;
 }
 
 .header-items {
@@ -59,7 +60,7 @@
   flex-grow: 1;
   position: fixed;
   bottom: 0;
-  width: 100%
+  width: 100%;
 }
 
 .footer {

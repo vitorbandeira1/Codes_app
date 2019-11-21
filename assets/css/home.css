@@ -51,6 +51,8 @@ a {
   color: white;
   background-color: #9F96AA;
   width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   display: flex;
 }
 
@@ -93,7 +95,6 @@ a {
   padding: .5rem;
   color: white;
   background-color: #EDEAEA;
-  box-shadow: 0 0 .2rem;
   display: flex;
   color:black;
   margin-bottom: 5rem; 
