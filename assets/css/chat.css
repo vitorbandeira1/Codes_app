@@ -1,6 +1,7 @@
 
 .total{
 	max-width: 375px;
+	background-color: ;
 }
 
 .chat{
@@ -9,6 +10,8 @@
 	border-width:0.1rem ;
 	width: 23.32rem;
 	height: 5rem;
+	
+
 
 }
 .chat_escrito{
