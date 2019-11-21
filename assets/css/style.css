@@ -11,9 +11,12 @@ iframe {
     background-color: #ffffff;
 }
 
+
 .body{
 
 }
+
+
 
 .header-conteiner {
 
@@ -47,13 +50,16 @@ iframe {
 
 .artista-nome {
 	font-size: 30px;
+	font-family: Antic;
 }
 
 .artista-tipo {
 	font-size: 30px;
+	font-family: Antic;
 }
 
 .seta-detalhe {
+	background-color: #EDEAEA;
 	height: 8%;
  	width: 8%;
 }
