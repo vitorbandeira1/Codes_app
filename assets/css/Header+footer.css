@@ -88,13 +88,13 @@
   width: 100%;
 }
 
-.doacao-image, .home-image, .adcionar-image, .chat-image, .perfil-image {
+/*.doacao-image, .home-image, .adcionar-image, .chat-image, .perfil-image {
   height: 3rem;
   width: 3rem;
   margin: 1rem;
-  /*border-radius: 58%;*/
+*/  /*border-radius: 58%;*/
 
-}
+
 
 .fas{
   color: #EDEAEA;
