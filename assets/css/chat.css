@@ -179,42 +179,4 @@
 	margin-top: 2rem;
   
 }
-.contato5{
-	display: inline-flex;
-	border:solid;
-	border-width:0.1rem ;
-	width: 23.32rem;
-	height: 5rem;
-	font-family: Antic;
-
-
-
-}
-
-.img_foto5 {
-	display: flex;
-	align-items: center;
-  
-}
-
-.foto5{
-  border-radius: 50%;
-  border-width:0.1rem ;
-  width:2.7rem;
-
-  
-
-}
-
-.nome5 {
-	display: flex;
-	margin-right: 9rem;
-
-
-  
-}
-
-.mensagem_nome5 {
-	margin-top: 2rem;
-  
 }
