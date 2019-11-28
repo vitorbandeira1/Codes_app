@@ -15,8 +15,5 @@ document.addEventListener('DOMContentLoaded', function() {
     else if(iframe.webkitRequestFullscreen) {
       iframe.webkitRequestFullscreen()
     }
-    else if (elem.webkitEnterFullscreen){
-      elem.webkitEnterFullscree()
-    }
   })
 })
