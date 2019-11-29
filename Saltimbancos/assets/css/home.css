@@ -1,0 +1,249 @@
+/*<!-- ---------------- TOP 5 ---------------------- -->*/
+a {
+	color: black;
+}
+
+.top_10{
+  padding: .5rem;
+  color: white;
+  background-color: #EDEAEA;
+  box-shadow: 0 0 .2rem;
+  display: flex;
+  width: 100%;
+}
+
+.top_10-items-list{
+ display: inline-flex;
+}
+
+.perfil-img{
+	border-radius: 50%;
+	height: 12rem;
+	width: 12rem;
+}
+
+.top_10-text{
+	color: #490000;
+	margin-top: 1rem;
+	margin-left: 2rem;
+}
+
+.top_10-title{
+	font-size: 2rem;
+}
+
+.top_10-nome{
+	margin-top: 6rem;
+	font-size: 1.5rem;
+}
+
+.top_10-nome, .top_10-profissao{
+	margin-left: 3rem;
+}
+
+
+
+/*<!-- ---------------- Filtro ---------------------- -->*/
+
+.filtro{
+
+  padding: .5rem;
+  color: white;
+  background-color: #9F96AA;
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+}
+
+
+.txt-items{
+	color: black;
+  margin-right: 3.1rem;
+  margin-top: .4rem;
+  font-size: 1.1rem;
+  margin-bottom: .4rem;
+  font-family: antic;
+}
+
+.filtro-item-list{
+	margin-left: -10rem;
+	max-width: 80%;
+}
+
+.txt-items:hover{
+	font-size: 1.3rem;
+}
+
+.linha_1{
+	display: flex;
+	margin-left: .5rem;
+}
+
+.pintor-text{
+	margin-left: 2.9rem;
+}
+.dança-text{
+	margin-left: 2.9rem;
+}
+
+.linha_2{
+	display: flex;
+	margin-left: .5rem;
+}
+
+
+/*<!-- ---------------- Trabalho ---------------------- -->*/
+
+.trabalho{
+
+  padding: .5rem;
+  color: white;
+  background-color: #EDEAEA;
+  color:black;
+  margin-bottom: 5rem; 
+  width: 100%;
+  font-family: Antic;
+  
+}
+
+.trabalho-image{
+	height: 10.1rem;
+	width: 10.8rem;
+	padding: 0.5rem;
+
+}
+
+.linha_3, .linha_4, .linha_5, .linha_6{
+
+  display: flex;
+  justify-content: flex-start;
+}
+
+
+
+
+
+
+/*<!-- ---------------- Carrossel ---------------------- -->*/
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  margin-left: 1.5rem;
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: #7A060D;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  margin-left: -0.6em;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  position: absolute;
+  top: 1rem;
+  color: #490000;
+  font-size: 2rem;
+  width: 100%;
+  text-align: right;
+  margin-left: -3.8rem;
+  font-family: antic;
+  font-weight: bold;
+}
+
+.text-name{
+  position: absolute;
+  top: 9.6rem;
+  color: #490000;
+  font-size: 1.5rem;
+  width: 100%;
+  text-align: right;
+  margin-left: -2.5rem;
+  font-family: antic;
+  font-weight: bold;
+}
+
+.text-job{
+  position: absolute;
+  top: 11rem;
+  color: #490000;
+  font-size: 1.1rem;
+  width: 100%;
+  text-align: right;
+  margin-left: -2.5rem;
+  font-family: antic;
+  font-weight: bold;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #490000;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}

@@ -1,0 +1,91 @@
+.body {
+  /* ---------------------------- COLOCAR A FONTE */
+}
+
+
+/*<!-- ------------ Header --------------------- -->*/
+.header {
+  padding: .5rem;
+  color: white;
+  background-color: #405a63;
+  box-shadow: 0 0 5px;
+  display: flex;
+}
+
+.header-items {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+}
+
+.header-items-list {
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-title {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 4.2rem;
+  font-size: 2rem;
+}
+
+.header-items {
+  display: flex;
+  align-items: center;
+}
+
+.header-img {
+  display: inline-flex;
+  align-items: center;
+}
+
+.QR_code-image {
+  height: 3rem;
+  margin-right: .5rem;
+  border-radius: 10%;
+}
+
+
+
+/*<!-- ------------ Footer --------------------- -->*/
+.footer {
+  padding: .5rem;
+  color: white;
+  background-color: #405a63;
+  justify-content: space-evenly;
+  display: flex;
+  flex-grow: 1;
+}
+
+.footer {
+  padding: .8rem;
+  color: white;
+  background-color: #405a63;
+  box-shadow: 0 0 3px;
+  display: flex;
+}
+
+.footer-items {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+}
+
+.footer-items-list {
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-img {
+  display: inline-flex;
+  align-items: center;
+}
+
+.doacao-image, .home-image, .adcionar-image, .chat-image, .perfil-image {
+  height: 3rem;
+  margin-right: 1rem;
+  border-radius: 50%;
+}
