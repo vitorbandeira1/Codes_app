@@ -59,7 +59,7 @@
 	margin-bottom: 1rem;
 	margin-left:8rem ;
 	margin-right: 4rem;
-	display: flex;
+	display: inline-flex;
 	justify-content: flex-start;
 	align-items: center;
 
@@ -78,6 +78,7 @@
 }
 
 .justificativa{ 
+	display: inline-flex;
 	align-items: center;
 	justify-content: center;
 
@@ -95,8 +96,8 @@
 	font-size: 1rem;
 	padding-left: 2rem;
 	align-self: center;
-	padding-right: 2rem;
-	margin-right: -9rem;
+	/*padding-right: 2rem;*/
+	/*margin-right: -9rem;*/
 	margin-left: -9rem;
 	font-family: Antic;
 	
